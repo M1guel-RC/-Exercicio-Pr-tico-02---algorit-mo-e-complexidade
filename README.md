@@ -14,9 +14,3 @@ Neste exemplo, foram extraídas as **manchetes principais do portal G1**, juntam
 - **BeautifulSoup4** → Para processar o HTML e extrair dados  
 - **CSV** → Para salvar os resultados em arquivo  
 - **Pandas** → Para visualizar os dados em formato de tabela (opcional)  
-
----
-
-## ⚙️ Instalação  
-
-No Google Colab ou ambiente local, instale as dependências:  
